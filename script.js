@@ -1,10 +1,10 @@
 //Select arithmetic operation
 let AritOperator = prompt("Please enter the arithmetic operator");
 
-let userValue1 = parseInt(prompt("Enter a Value"));
+let userValue1 = parseInt(prompt("Input an integer number"));
 //Getting the firstvalue from the user
 
-let userValue2 = parseInt(prompt("Enter a Value"));
+let userValue2 = parseInt(prompt("Input another integer number"));
 //Getting the secondvalue from the user
 
 if (AritOperator == "+") {
